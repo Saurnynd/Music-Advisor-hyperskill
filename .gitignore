@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Music Advisor/task/build/
+/Music Advisor/task/out/
+/Music Advisor/task/out/production/classes/
+/Topics/Encapsulating object creation/Static factory methods for Time/out/
+/Topics/Encapsulating object creation/Static factory methods for Time/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
